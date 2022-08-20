@@ -1,0 +1,9 @@
+CID : 4 == System
+process ID: ffffc70713286040
+
+Token: ffff880498c077d0
+
+CID: ?? (offensive)
+process ID: ffffc7071a6714c0
+
+Token: ffff88049eeb3060
